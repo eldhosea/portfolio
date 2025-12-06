@@ -1,0 +1,24 @@
+---
+title: "Home"
+---
+
+## Welcome to My Portfolio
+
+Hello, my name is Eldhose, and welcome to my personal portfolio website. I am passionate about business and enjoy creating useful and interactive reports using R studio.
+
+### About Me
+
+I am currently a BBA student at Vancouver Island University, focusing on areas involving business, finance, and management.
+
+### Skills and Focus Areas
+
+- R, R Markdown, and RStudio
+- Data error location, correction and cleaning
+- Data visualization
+- Statistics analysis and reporting
+
+### Navigate My Portfolio
+
+View my other pages to learn more about me and my work:
+[About Me](about.html)
+[Projects](projects.html)

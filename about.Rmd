@@ -1,0 +1,27 @@
+---
+title: "About Me"
+---
+
+## Background and Education
+
+High School Graduate
+
+VIU - BBA Program
+Expected Graduation: 2027
+
+## Technical Skills and Tools
+
+- Programming: R
+- Data Management: Data cleaning, data processing, and presentation
+- Visualization: ggplot2, R Markdown reports
+- Data sourcing: CSV file processing, government data sets, business data sets
+
+## Contact Information
+
+Feel free to contact me:
+
+- Email: [eldhoseanil05@gmail.com](eldhoseanil05@gmail.com)
+- LinkedIn: N/A
+- GitHub: [eldhosea](https://github.com/eldhosea)
+
+[Go Home](index.html)

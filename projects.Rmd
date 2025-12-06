@@ -1,0 +1,39 @@
+---
+title: "Projects"
+---
+
+## Data Analysis Projects
+
+### Project 1: Sales Data Analysis
+
+**Project Details**
+
+Analysis of sales data to explore trends and patterns within different channels of a business to make useful observations and provide business recommendations.
+
+**Key Skills**
+
+- CSV data processing
+- Statistical analysis
+- Visualization
+- Business recommendation
+
+[View Full Report](project1.html)
+
+---
+
+### Project 2: Crime Data Analysis
+
+**Project Details**
+
+Analysis of crime data within the Vancouver area to provide strategic recommendations for where a franchise company could safely invest in a physical location.
+
+**Key Skills**
+
+- CSV data processing
+- Missing data tracking and handling
+- Data quality assessment
+- Executive reporting
+
+[View Full Report](project2.html)
+
+[Go Home](index.html)
